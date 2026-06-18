@@ -1,0 +1,19 @@
+{
+  "site_title": "精选电影大全-高清影视片库-高清视频在线播放",
+  "logo": "精选电影大全",
+  "movie_count": 2000,
+  "category_count": 8,
+  "category_counts": {
+    "精选华语": 250,
+    "日韩精选": 250,
+    "欧美大片": 250,
+    "动作犯罪": 250,
+    "爱情喜剧": 250,
+    "悬疑剧情": 250,
+    "动画奇幻": 250,
+    "经典纪录": 250
+  },
+  "detail_pages": 2000,
+  "video_url_count_extracted": 150,
+  "cover_rule": "cover = ((N - 1) % 150) + 1; images are referenced as top-level 1.jpg to 150.jpg and are not included in the ZIP."
+}
